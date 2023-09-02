@@ -1,1 +1,5 @@
-console.log('hello')
+const hello ='test'
+
+const test = ()=>{
+  console.log(hello)
+  {
