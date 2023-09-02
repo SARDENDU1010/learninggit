@@ -7,6 +7,11 @@ const test = ()=>{
   console.log(hello)
 }
 
+const test4 = ()=>{
+    console.log(hello)
+  }
+  
+
 const test3 = ()=>{
   console.log(hello)
 }
